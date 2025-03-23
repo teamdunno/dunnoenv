@@ -7,4 +7,4 @@ wheels/
 *.egg-info
 .venv
 *.denv
-.env
+*.env
