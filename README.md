@@ -4,7 +4,7 @@ A different version of .env files without the boring `KEY1="VALUE"` syntax.
 .denv files are handled using Python.
 
 # Usage
-- Make a .denv file (No need to hide it, just add it to your .gitignore if you plan on sharing the code on GitHub or hosting it. The file must be called EXACTLY that however!)
+- Make a .denv file (No need to hide it, just add it to your .gitignore if you plan on sharing the code on GitHub or hosting it)
 - Edit the file with the following syntax:
 ```denv
 # .denv files also support comments!
