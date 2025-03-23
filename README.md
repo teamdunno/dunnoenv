@@ -8,7 +8,7 @@ A different version of .env files without the boring `KEY1="VALUE"` syntax.
 - Edit the file with the following syntax:
 ```denv
 # .denv files also support comments!
-apiKey: "test-0cgiclfifxji3a0aq8x1i81j1"
+apiKey -> "test-0cgiclfifxji3a0aq8x1i81j1"
 ```
 - Download the denv.py file.
 - Move the file to your script's path.
